@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xc05055367c0056ba7209D3de562fdFA4ef6b8108",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xc05055367c0056ba7209d3de562fdfa4ef6b8108",
+  "CONTRACT_ADDRESS": "0x6af09c57c62574B7c72CF4D73486cAa262928DB5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6af09c57c62574b7c72cf4d73486caa262928db5",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 40,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sneaky-snowmen",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sneaky-snowmen",
   "SHOW_BACKGROUND": true
 }
